@@ -99,4 +99,4 @@ This project was developed as a technical challenge to demonstrate:
 
 **Luciana Ochiai**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/LucianaMiki
