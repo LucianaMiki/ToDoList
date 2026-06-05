@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Fazer desafio técnico",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "ablubleeeeeee",
+      "completed": true
+    },
+    {
+      "title": "hello",
+      "completed": false,
+      "id": "bQtdle9xgCg"
+    },
+    {
+      "title": "oieee",
+      "completed": false,
+      "id": "3jhR6LyZwhg"
+    },
+    {
+      "title": "oihdjsdbisnd",
+      "completed": false,
+      "id": "4aNIdQsWp7I"
+    },
+    {
+      "title": "oijswodjwibdjs",
+      "completed": false,
+      "id": "vjKNbJ-K9Uc"
+    },
+    {
+      "title": "oie",
+      "completed": false,
+      "id": "6DJxARkXinE"
+    },
+    {
+      "title": "oi",
+      "completed": false,
+      "id": "6vPTzHZsN7U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
